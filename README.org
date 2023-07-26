@@ -1,0 +1,10 @@
+* clite
+
+Lite weight testing framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispy-stuff/clite.git   |
+| commit  | b69ddcf  |
+| systems | clite |
+|---------+-------------------------------------------|
+
